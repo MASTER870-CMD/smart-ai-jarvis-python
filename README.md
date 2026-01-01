@@ -125,4 +125,4 @@ Open a Pull Request.
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
-<p align="center"> Built with ❤️ for the AI Community. </p>
+ Built with ❤️ for the AI Community. 
